@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <themes>
-data xmls="https://github.com/WEKASAFTAWIAPPS/LFThems/tree/main/Xml" walls="https://github.com/WEKASAFTAWIAPPS/LFThems/tree/main/Wall/" scs="https://github.com/WEKASAFTAWIAPPS/LFThems/tree/main/Screen/"/>
+<data Xml="https://raw.githubusercontent.com/WEKASAFTAWIAPPS/LFThems/main/Xml/" Wall="https://raw.githubusercontent.com/WEKASAFTAWIAPPS/LFThems/main/Wall/" Screen="https://raw.githubusercontent.com/WEKASAFTAWIAPPS/LFThems/main/Screen/"/>
 <theme>
 <title>My_Love</title>
 <date>1/04/2025</date>
