@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="yo_toast_profile_view" value="false" />
+    <int name="yo_toast_typing_rd" value="10" />
+    <boolean name="multiChats" value="false" />
+    <boolean name="yo_toast_profile_el" value="true" />
+    <boolean name="yo_toast_status_el" value="true" />
+    <boolean name="FakeVoice3" value="false" />
+    <boolean name="FakeVoice4" value="false" />
+    <boolean name="yo_toast_typing_el" value="true" />
+    <boolean name="WEKA_ChathuLagHome" value="false" />
+    <boolean name="Conv_call_btn" value="false" />
+    <boolean name="Hide_div" value="false" />
+    <boolean name="WEKA_mediacaption" value="false" />
+    <boolean name="FakeVoice5" value="false" />
+    <boolean name="FakeVoice6" value="false" />
+    <int name="yo_toast_status_rd" value="10" />
+    <boolean name="log_show_name_check" value="true" />
+    <boolean name="home_imgBK" value="true" />
+    <boolean name="WEKASAFTAWI~Mods" value="false" />
+    <boolean name="WEKS_readmore" value="false" />
+    <boolean name="WEKA_webpage" value="false" />
+    <boolean name="custom_wall_profilepic" value="false" />
+    <int name="yo_toast_status_bc" value="-12891564" />
+    <int name="yo_toast_profile_bc" value="-12891564" />
+    <boolean name="FakeVoice" value="false" />
+    <boolean name="WEKA_location" value="false" />
+    <boolean name="WEKA_vcard" value="false" />
+    <string name="yo_toast_online_gv">0</string>
+    <int name="yo_toast_online_tc" value="-1" />
+    <boolean name="yo_toast_online_cs" value="true" />
+    <int name="yo_toast_profile_rd" value="10" />
+    <string name="tick_style">alien</string>
+    <boolean name="read_more" value="false" />
+    <boolean name="yo_toast_status_override" value="false" />
+    <boolean name="yo_toast_typing_cs" value="true" />
+    <string name="yo_toast_typing_gv">0</string>
+    <int name="yo_toast_typing_tc" value="-1" />
+    <int name="yo_toast_online_bc" value="-12891564" />
+    <boolean name="my_name" value="false" />
+    <boolean name="disableDTTL" value="false" />
+    <boolean name="custom_wall" value="false" />
+    <string name="yo_toast_status_gv">0</string>
+    <int name="yo_toast_status_tc" value="-1" />
+    <boolean name="yo_hideinfo" value="false" />
+    <boolean name="PicProf" value="false" />
+    <boolean name="yo_toast_status_cs" value="true" />
+    <boolean name="WEKA_imotal" value="false" />
+    <boolean name="yo_toast_typing_view" value="false" />
+    <boolean name="yo_toast_online_view" value="true" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <boolean name="WEKA_image" value="false" />
+    <string name="bubble_style">yousef</string>
+    <boolean name="WEKAVerified" value="false" />
+    <boolean name="yo_toast_profile_cs" value="true" />
+    <string name="HomeEntry">yousef</string>
+    <string name="yo_toast_profile_gv">0</string>
+    <int name="yo_toast_profile_tc" value="-1" />
+    <boolean name="yo_toast_online_el" value="true" />
+    <boolean name="About_datahackerztl" value="false" />
+    <int name="yo_toast_typing_bc" value="-12891564" />
+    <boolean name="WEKAModsInta" value="false" />
+    <boolean name="AttBt" value="false" />
+    <int name="main_text" value="17" />
+    <boolean name="yo_toast_status_view" value="true" />
+    <boolean name="name_datahackerztl" value="false" />
+    <int name="yo_toast_online_rd" value="10" />
+    <int name="text_size_pick" value="16" />
+</map>
